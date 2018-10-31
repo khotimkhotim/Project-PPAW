@@ -92,25 +92,10 @@ footer p {
     margin:20px;
 }
 
-label{
-  padding: 22px;
-  background-color: #22b524;
-  font-size: 36px;
-  color: #fff;
-  font-weight: 900;
-  cursor: pointer;
-  margin-right: -5px;
-}
-
-label:hover{
-  color: #fff; 
-  background-color: #3a963b;
-}
-
 input{
-  padding: 22px;  
-  font-size: 36px; 
-  width: 800px;
+  padding: 9px;  
+  font-size: 12px; 
+  width: 300px;
   border: none;
   color: #4a4c4c;
   outline: none;
